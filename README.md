@@ -84,13 +84,13 @@ Added the Jenkins user to the Docker group and restarted the Jenkins service to 
 ## Screenshots
 
 ### Jenkins Pipeline Execution
-*(Add screenshot of successful Jenkins pipeline run here)*
+<img width="1857" height="304" alt="Screenshot 2026-01-31 114901" src="https://github.com/user-attachments/assets/9bf7e1ec-5ba1-42f6-b544-da904da25458" />
 
 ### Docker Image in DockerHub
-*(Add screenshot of pushed Docker image with build number tag)*
+<img width="945" height="537" alt="image" src="https://github.com/user-attachments/assets/a2a7205a-4de3-49c2-b537-6e5e61c993f2" />
 
 ### Running Application
-*(Add screenshot of application running on port 3000 in browser)*
+<img width="480" height="135" alt="Screenshot 2026-01-31 114915" src="https://github.com/user-attachments/assets/eb4dfc03-473e-43a6-b745-b610bc10bc05" />
 
 ---
 
