@@ -1,6 +1,10 @@
 pipeline {
     agent any
 
+    tools{
+	nodejs 'node-20'
+    }
+
     environment {
         DOCKER_IMAGE = "sanketdesai09/jenkins-cicd-demo"
     }
