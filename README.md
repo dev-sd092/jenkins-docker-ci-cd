@@ -8,8 +8,7 @@ The pipeline automates application build, basic testing, Docker image creation, 
 
 ## Architecture Diagram
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/2cbf11c6-1c20-404a-9bfb-322c3b4ae40c" />
-
+<img width="1236" height="924" alt="image" src="https://github.com/user-attachments/assets/3f93c0a5-857c-45d0-a47e-6d41b094d000" />
 
 ---
 
