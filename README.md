@@ -8,22 +8,8 @@ The pipeline automates application build, basic testing, Docker image creation, 
 
 ## Architecture Diagram
 
-Developer Commit
-|
-v
-GitHub Repository
-|
-v
-Jenkins Pipeline
-├── Checkout Code
-├── Install Dependencies (Node.js)
-├── Run Tests
-├── Build Docker Image
-├── Push Image to DockerHub
-└── Deploy Container
-|
-v
-Docker Container Running on Linux Server
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/2cbf11c6-1c20-404a-9bfb-322c3b4ae40c" />
+
 
 ---
 
